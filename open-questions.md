@@ -16,6 +16,9 @@
 - [ ] Whitehead: do bypass works register first as causal efficacy (bodily report) and representational works first as presentational immediacy (naming)?
 - [ ] Score each operator against Whitehead's four criteria: coherence, logic, applicability, adequacy.
 
+- [ ] BCI: does artificial perception from cortical stimulation feel thin or unreal without bodily signals, as Whitehead's two-mode theory predicts?
+- [ ] BCI: at what decoder latency does synthesized speech or movement stop feeling like the user's own act?
+
 ## Open questions
 
 - [ ] Is the conversational operator unique to Mozart, or a general Classical mechanism he used most fully? Test against Haydn.

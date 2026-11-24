@@ -8,6 +8,7 @@ Cited from general knowledge; not yet checked against the editions.
 - Bernstein, Leonard. *Omnibus* broadcast on Beethoven's Fifth. 1954.
 - Blood, Anne J., and Robert J. Zatorre. "Intensely Pleasurable Responses to Music Correlate with Activity in Brain Regions Implicated in Reward and Emotion." *PNAS.* 2001.
 - Burnham, Scott. *Beethoven Hero.* 1995.
+- Carnap, Rudolf. *Der logische Aufbau der Welt.* 1928; *Logical Syntax of Language.* 1934/1937.
 - Clynes, Manfred. *Sentics: The Touch of Emotions.* 1977.
 - Coleridge, Samuel Taylor. *Biographia Literaria*, ch. 14. 1817.
 - Empson, William. *Seven Types of Ambiguity.* 1930.
@@ -22,15 +23,21 @@ Cited from general knowledge; not yet checked against the editions.
 - Keefe, Simon P. *Mozart's Piano Concertos: Dramatic Dialogue in the Age of Enlightenment.* 2001.
 - Koch, Heinrich Christoph. *Versuch einer Anleitung zur Composition.* 1782–93.
 - Langer, Susanne K. *Philosophy in a New Key.* 1942; *Feeling and Form.* 1953.
+- McCulloch, Warren S., and Walter Pitts. "A Logical Calculus of the Ideas Immanent in Nervous Activity." *Bulletin of Mathematical Biophysics.* 1943.
 - Meyer, Leonard B. *Emotion and Meaning in Music.* 1956.
 - Palmer, Stephen E., Karen B. Schloss, et al. "Music–Color Associations Are Mediated by Emotion." *PNAS.* 2013.
+- Peirce, Charles S. Letter to Allan Marquand. 1886.
 - Rabkin, Norman. *Shakespeare and the Common Understanding.* 1967.
 - Ratner, Leonard. *Classic Music.* 1980.
 - Réti, Rudolph. *The Thematic Process in Music.* 1951.
 - Rosen, Charles. *The Classical Style.* 1971.
+- Russell, Bertrand. Letter to Joseph D. Levinson, 26 January 1963. In *Dear Bertrand Russell.*
 - Salimpoor, Valorie N., et al. "Anatomically Distinct Dopamine Release during Anticipation and Experience of Peak Emotion to Music." *Nature Neuroscience.* 2011.
 - Schenker, Heinrich. "The Art of Improvisation," in *Das Meisterwerk in der Musik*, vol. 1. 1925.
 - Scriabin, Alexander. *Le Poème de l'extase*, Op. 54, and companion poem. 1905–08.
+- Shannon, Claude E. "A Symbolic Analysis of Relay and Switching Circuits." 1938 (MIT thesis, 1937); "A Mathematical Theory of Communication." 1948.
 - Van Gogh, Vincent. Letters to Theo van Gogh, 1888–89 ("high yellow note"; *Wheatfield with a Reaper*). Van Gogh Museum, *Vincent van Gogh: The Letters*.
 - Whitehead, Alfred North. *A Treatise on Universal Algebra.* 1898; with Bertrand Russell, *Principia Mathematica.* 1910–13.
 - Whitehead, Alfred North. *The Concept of Nature.* 1920; *Symbolism: Its Meaning and Effect.* 1927; *Process and Reality.* 1929; *Adventures of Ideas.* 1933; *Modes of Thought.* 1938.
+- Wiener, Norbert. *Cybernetics.* 1948.
+- Wittgenstein, Ludwig. *Tractatus Logico-Philosophicus.* 1921/1922.

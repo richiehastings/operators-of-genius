@@ -22,6 +22,9 @@ Each hypothesis has close relatives in existing scholarship, but each relative c
 | Bypass | Clynes, *Sentics* (1977) | Essentic forms produce emotion by sharing its shape | Candidate universal language across media |
 | Bypass | Blood & Zatorre (2001); Salimpoor et al. (2011) | Music engages reward circuitry (chills, dopamine) | Neural evidence of a short path |
 | Transmission | Schenker, *Fernhören*; Furtwängler | Long-range hearing; improvisatory shaping; tonality as natural law | Performer as fourth node; control at the level of the whole |
+| Beyond Whitehead | Shannon (1948); Wiener (1948); predictive processing | Signal, feedback, perception as prediction | Operational form of causal efficacy and presentational immediacy |
+| Logic to neurons | Peirce (1886); Carnap (1928, 1934); McCulloch & Pitts (1943) | Logic as circuitry; neurons as logic gates | Logic as coarse projection of neural dynamic form |
+| Logic to neurons | Present-day BCIs (Neuralink, Paradromics, Pittsburgh) | Neural dynamics decoded into movement and speech | BCI as new translator; bypass made literal |
 | Shakespeare | Rabkin (1967) | Bohr's complementarity applied to the plays | Adds recursive decay and scale interchange |
 | Shakespeare | Coleridge (1817); Empson (1930); Keats | Reconciliation of opposites; ambiguity; negative capability | Puts duality on a group/individual axis |
 | Shakespeare | Barber (1959); Frye (1957, 1965) | Festive release; the expelled blocking figure | Recasts the scapegoat as a conserved quantity |

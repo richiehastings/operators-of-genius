@@ -10,6 +10,8 @@ A comparative framework for types of human genius, by Richard Hastings.
 | --- | --- |
 | [thesis.md](thesis.md) | One physics, many translators: the universal-language thesis |
 | [whitehead.md](whitehead.md) | Whitehead foundations: bifurcation, two modes of perception, contrast, criteria |
+| [beyond-whitehead.md](beyond-whitehead.md) | Beyond Whitehead: sensing science and the Wittgenstein contrast |
+| [logic-to-neurons.md](logic-to-neurons.md) | From logic to neurons: Peirce, Carnap and brain–computer interfaces |
 | [framework.md](framework.md) | The operator grammar and meta-model |
 | [figures/mozart.md](figures/mozart.md) | Mozart: conversation within a bounded domain |
 | [figures/beethoven.md](figures/beethoven.md) | Beethoven: compressed energy and eruption, incl. the Egmont Overture and perceptual lag |
