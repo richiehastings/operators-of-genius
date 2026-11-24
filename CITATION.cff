@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you cite this work, please cite it as below."
+title: "Operators of Genius: A Comparative Framework"
+authors:
+  - family-names: Hastings
+    given-names: Richard
+version: 0.1.0
+date-released: 2026-11-23
+license: CC-BY-4.0
+repository-code: "https://github.com/richiehastings/operators-of-genius"
+type: report
