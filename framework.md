@@ -18,3 +18,5 @@ The dynamic passes through four nodes: source, composer, performer, listener. An
 - **Perceptual lag** (Beethoven, Van Gogh): energy is stored where perception is weakest and released where it is strongest.
 - **Bypass** (Scriabin, Van Gogh): the perceived path from source to perceiver is shortened by maximizing the precision of the actual transformations.
 - **Concealed control** (Furtwängler): the trajectory is fully controlled while the next move is withheld; announcing it turns experience into information and lengthens the path.
+
+In Whitehead's terms ([whitehead.md](whitehead.md)), all three mechanisms govern the passage between *causal efficacy* (felt, bodily force) and *presentational immediacy* (clear, distinct display). Each new operator should meet his four criteria: coherence, logic, applicability, adequacy.

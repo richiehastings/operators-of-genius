@@ -5,6 +5,9 @@ Each hypothesis has close relatives in existing scholarship, but each relative c
 | Hypothesis | Existing heuristic | What it supports | Where the hypothesis extends it |
 | --- | --- | --- | --- |
 | Thesis | Whitehead, process philosophy | Experience as a mode of physical process | Applies it to art as translation across media |
+| Thesis | Whitehead, *The Concept of Nature* (1920) | Rejects the bifurcation of nature | Physics and cognition as one synthetic process |
+| Meta-model | Whitehead, *Symbolism* (1927) | Causal efficacy vs. presentational immediacy | Explanatory layer under perceptual lag, bypass and concealed control |
+| Shakespeare | Whitehead, *Process and Reality* (1929) | Intensity through contrast | Metaphysical form of paired opposition; fusion as limit case |
 | Thesis | Palmer, Schloss et al. (2013) | Music–color associations mediated by emotion | Emotion as the synthetic layer of translation |
 | Mozart | Koch, *Versuch* (1782–93) | Concerto as tragic dialogue between soloist and chorus-like orchestra (period evidence) | Generalizes dialogue from genre description to one operator across all genres |
 | Mozart | Keefe, *Mozart's Piano Concertos: Dramatic Dialogue* (2001) | Soloist–orchestra–winds dialogue | Adds the boundary and closure condition as part of the mechanism |

@@ -32,4 +32,5 @@ Cited from general knowledge; not yet checked against the editions.
 - Schenker, Heinrich. "The Art of Improvisation," in *Das Meisterwerk in der Musik*, vol. 1. 1925.
 - Scriabin, Alexander. *Le Poème de l'extase*, Op. 54, and companion poem. 1905–08.
 - Van Gogh, Vincent. Letters to Theo van Gogh, 1888–89 ("high yellow note"; *Wheatfield with a Reaper*). Van Gogh Museum, *Vincent van Gogh: The Letters*.
-- Whitehead, Alfred North. *Process and Reality.* 1929.
+- Whitehead, Alfred North. *A Treatise on Universal Algebra.* 1898; with Bertrand Russell, *Principia Mathematica.* 1910–13.
+- Whitehead, Alfred North. *The Concept of Nature.* 1920; *Symbolism: Its Meaning and Effect.* 1927; *Process and Reality.* 1929; *Adventures of Ideas.* 1933; *Modes of Thought.* 1938.

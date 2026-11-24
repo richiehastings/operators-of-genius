@@ -6,7 +6,7 @@ The operators in this repository are case studies of this thesis: each describes
 
 ## Grounding
 
-- **Whitehead.** Process philosophy treats experience as a mode of physical process ("prehension"), not something apart from it. The art work is a structured event in which physical process becomes felt experience.
+- **Whitehead.** Process philosophy treats experience as a mode of physical process ("prehension"), not something apart from it, and rejects the "bifurcation of nature" into physical cause and perceived quality. The art work is a structured event in which physical process becomes felt experience. See [whitehead.md](whitehead.md).
 - **Clynes.** Essentic forms: one emotional dynamic shape, expressible through touch, voice or music and recognizable across them. A candidate for the universal language itself.
 - **Langer.** Music shares the morphology of feeling. Form, not content, is what carries across media.
 - **Scriabin's *Prometheus* (1910)** scored a light keyboard (clavier à lumières) to translate one dynamic into sound and color at once.

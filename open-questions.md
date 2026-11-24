@@ -1,6 +1,6 @@
 # Originality, open questions and next steps
 
-**What appears new.** A shared operator grammar applied to every figure; physics used as structure across all three, not only for Shakespeare as in Rabkin; and the singular/collective interchange as an independent analytical axis.
+**What appears new.** A shared operator grammar applied to every figure; a unifying thesis that physics runs neutrally through all media, with each art form as a translator and cognition as the place of synthesis (grounded in Whitehead's rejection of the bifurcation of nature); physics used as structure across all operators, not only for Shakespeare as in Rabkin; and the singular/collective interchange as an independent analytical axis.
 
 ## Falsifiability tests to define
 
@@ -12,6 +12,9 @@
 - [ ] Thesis: test candidate invariants (energy contour, ratio relations, opposed-force count, path length) across media with cross-modal matching.
 - [ ] Bypass: do listeners report a bodily response before naming the subject for *The Poem of Ecstasy*, and recognition first for a programmatic love scene (e.g. Prokofiev's balcony scene)?
 - [ ] Transmission: do long-range-hearing performances (Furtwängler) produce stronger physiological responses than locally precise ones (Toscanini) of the same Beethoven symphony?
+
+- [ ] Whitehead: do bypass works register first as causal efficacy (bodily report) and representational works first as presentational immediacy (naming)?
+- [ ] Score each operator against Whitehead's four criteria: coherence, logic, applicability, adequacy.
 
 ## Open questions
 
