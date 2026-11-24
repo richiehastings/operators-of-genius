@@ -28,6 +28,10 @@ Shakespeare achieves simultaneity through dramatic irony: the singular character
 - "At all times" is unfalsifiable as written. Testable form: peak moments almost never present a pure affect, and pure affect is usually marked as a limitation (Malvolio's self-love, Angelo's rigid virtue).
 - Decay is sometimes triadic (Lear's daughters, the three caskets, the witches), but these usually reduce to a pair.
 
+## Whitehead: intensity through contrast
+
+In *Process and Reality*, depth of experience comes from contrasts held together without eliminating either side. The Shakespeare operator is this principle in dramatic form; Scriabin's fusion is its limiting case. See [whitehead.md](../whitehead.md).
+
 ## Refinement: a conservation principle
 
 When a collective reaches joy, the displaced sorrow is not destroyed; it concentrates in a remainder, usually one singular figure who carries it out of the frame. In the tragedies the inverse holds: singular catastrophe is balanced by collective restoration (Fortinbras, Malcolm).
